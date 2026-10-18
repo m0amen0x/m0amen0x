@@ -1,7 +1,7 @@
 ### Hey, I'm Moamen 👋
 
-🇪🇬 Egyptian Cybersecurity Researcher
+Egyptian Bug Hunter
 
-**Offensive Security | Ethical Hacking | Web Security & Development**
+**Offensive Security | Ethical Hacking | Web Security**
 
 🐞 Bug Bounty Hunter | 🔎 Vulnerability Research
